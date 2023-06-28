@@ -37,7 +37,6 @@ class ViewController: UIViewController {
         number2 = Int(sender.value)
         secondLabel.text = String(number2)
         secondLabel.isEnabled = true
-        
     }
     
     
